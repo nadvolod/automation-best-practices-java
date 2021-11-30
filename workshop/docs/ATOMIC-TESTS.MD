@@ -1,7 +1,8 @@
 # Automated Atomic Tests
 
+<img src="https://media.giphy.com/media/JtLrtaN4VPoKXJRKGB/giphy.gif" alt="not" width="400"/>
+
 No, not the best tests that we can code
-![Not the best](https://media.giphy.com/media/JtLrtaN4VPoKXJRKGB/giphy.gif)
 
 An **automated atomic test (AAT)** is one that tests only a single feature or component. An AAT should form a single irreducible unit. An automated test should not do something like end-to-end automation. 
 
@@ -25,6 +26,10 @@ As an aside, this concept is already well understood in unit and integration tes
 1. Find the functionality that you want to test
 2. Isolate/Mock/Fake all irrelevant actions
 3. Test the relevant feature through UI
+
+## 👀How does our app work under the hood?
+
+Let's take a look at how a login and cart functionality works at the code level
 
 ## Let's make our tests atomic
 
