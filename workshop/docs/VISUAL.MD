@@ -31,7 +31,7 @@ Go to `VisualTests.java` and follow instructions to implement visual tests
 ## 🏋️‍♀Implement data-driven visual tests
 
 1. Go to VisualDataDrivenTests.java and follow instructions. Be sure to read the explanations.
-2. Run data-driven tests use `mvn test -Dtest="VisualData*"`
+2. Run data-driven tests use `mvn test -Dtest="VisualDataDrivenTests"`
 3. Check results in Screener.io dashboard
 
 ## [🧪Let's review test coverage](TEST-STRATEGY.MD)
@@ -48,4 +48,4 @@ Go to `VisualTests.java` and follow instructions to implement visual tests
 
 ✅Visual e2e testing should be part of every web app's test suite
 
-## ⏭️Next, let's make our suite really fast!
+## [⏭️Next, let's make our suite really fast!](./PARALLEL.MD)
