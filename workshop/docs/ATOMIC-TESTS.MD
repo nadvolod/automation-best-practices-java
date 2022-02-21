@@ -44,6 +44,13 @@ Let's take a look at how a login and cart functionality works at the code level
 
 [🧪Let's review test coverage](TEST-STRATEGY.MD)
 
+## More atomic testing resources
+
+This is a deep topic and there are a number of other resources that you can check out to learn
+
+* [Automated atomic tests definitive guide](https://ultimateqa.com/automated-atomic-tests/)
+* [Atomic logins exercises](https://github.com/saucelabs-training/automation-best-practices/blob/main/login-testing/LOGINS.md)
+
 ## ⏭️Next, we will use visual tests to:
 
 * Massively increase browser coverage
