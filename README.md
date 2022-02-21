@@ -216,7 +216,7 @@ mvn test -Dtest=SanityTest -X
 
 ## Stay to the end and win a prize!
 
-Stay to the end and 2 lucky people can win a snazzy Back Pack!
+Stay to the end and 1 lucky person can win a snazzy Back Pack!
 
 <img src="./graphics/large_Sauce_Bkpk_2021.png" alt="me" width="200"/>
 
