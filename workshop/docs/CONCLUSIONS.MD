@@ -1,6 +1,26 @@
 # Conclusions
 
-## Extra resources
+<img src="https://media.giphy.com/media/fX1JmOTb65KbdDYuGn/giphy.gif" alt="wait" width="400"/>
 
-* [The Complete Selenium WebDriver Java Bootcamp](https://ultimateqa.com/selenium-java)
+1. Please leave some quick and anonymous [feedback on this workshop](https://docs.google.com/forms/d/e/1FAIpQLSfwQ8pJmCwGkHKsd8eR5scnjYuBWTshMpmrgvKGuiLcSoT1ug/viewform?usp=sf_link)
+
+2. 📫 Follow me to stay up to date on the next Testing for Good workshop!
+
+    - [Java Testing Newsletter](https://ultimateqa.ck.page/selenium-java-tips)
+    - [Youtube training](https://youtube.com/ultimateqa)
+    - [LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/)
+    - [Twitter](https://twitter.com/Nikolay_A00)
+
+3. Give this repo a ⭐, it deserves it 😂
+4. 💃Let's pick 2 winners for backpacks!
+
+<img src="https://media.giphy.com/media/mE5AQ8dqoH4Z2/giphy.gif" alt="backpack" width="400"/>
+
+## Bonus resources
+
+* [Complete Selenium WebDriver Java Bootcamp](https://ultimateqa.com/selenium-java)
+* [Parallelization with Junit4,Junit5,TestNg](https://youtu.be/ufccoaURMIc)
+* [21+ Automation best practices](https://ultimateqa.com/automation-patterns-antipatterns/)
+
+
 
