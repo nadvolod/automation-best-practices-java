@@ -17,8 +17,9 @@
 ## Bonus resources
 
 * [Complete Selenium WebDriver Java Bootcamp](https://ultimateqa.com/selenium-java)
+* [Automation patterns ebook](Automation-Testing-Patterns.pdf)
+* [Dummy automation sites](TheBestWebsitesForAutomation.pdf)
 * [Parallelization with Junit4,Junit5,TestNg](https://youtu.be/ufccoaURMIc)
-* [21+ Automation best practices](https://ultimateqa.com/automation-patterns-antipatterns/)
 
 ## 💃Let's pick a winner for a backpack!
 
