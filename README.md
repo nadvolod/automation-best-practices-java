@@ -79,6 +79,8 @@ We will focus on a holistic approach of risk mitigation by doing:
 1. Free [Sauce account](https://saucelabs.com/sign-up)
 2. Request [Demo Screener account](https://saucelabs.com/demo-request-vt). **!Request ASAP before the workshop as it's a manual process to add users.** 
 
+> **I will get us demo screener accounts for those that don't have them :)**
+
 ### Get your username and api key
 
 1. Save your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
