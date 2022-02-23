@@ -7,6 +7,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.MutableCapabilities;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -14,6 +15,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import java.net.URL;
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.HashMap;
 import java.util.Map;
 
 import static org.junit.Assert.assertNull;
@@ -42,7 +44,8 @@ public class VisualDataDrivenSolutionTests extends AbstractTestBase {
     public static Collection<Object[]> crossBrowserData() {
         return Arrays.asList(new Object[][]{
                 {"Chrome", "Windows 10", "latest", "1080x720", "1080p"},
-                {"Safari", "macOS 10.15", "latest", "1080x720", "1080p"}
+                {"Safari", "macOS 10.15", "latest", "1080x720", "1080p"},
+                {"Safari", "macOS 10.15", "latest", "390x844", "iphone 12 pro"},
         });
     }
 
@@ -60,6 +63,7 @@ public class VisualDataDrivenSolutionTests extends AbstractTestBase {
         sauceOptions.setCapability("accessKey", SAUCE_ACCESS_KEY);
         sauceOptions.setCapability("name", testName.getMethodName());
         sauceOptions.setCapability("build", buildName);
+        sauceOptions.setCapability("extendedDebugging", true);
         browserOptions.setCapability("sauce:options", sauceOptions);
 
         //pass information to screener.io
@@ -84,9 +88,17 @@ public class VisualDataDrivenSolutionTests extends AbstractTestBase {
         //take a visual snapshot of our page
         loginPage.takeSnapshot();
 
-        loginPage.login("standard_user");
+        loginPage.atomicLogin();
         ProductsPage productsPage = new ProductsPage(driver);
+        productsPage.visit();
         productsPage.takeSnapshot();
+
+        // taking a snapshot of a small component
+        // we can also ignore sections of the page using 'ignore'
+        // https://docs.saucelabs.com/visual/e2e-testing/commands-options/
+        HashMap options = new HashMap();
+        options.put("cropTo", ".inventory_item");
+        ((JavascriptExecutor) driver).executeScript("/*@visual.snapshot*/", "Backpack component", options);
 
         productsPage.addAnyProductToCart();
         ShoppingCartPage cart = new ShoppingCartPage(driver);

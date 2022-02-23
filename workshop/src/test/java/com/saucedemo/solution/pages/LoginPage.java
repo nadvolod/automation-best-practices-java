@@ -1,6 +1,8 @@
 package com.saucedemo.solution.pages;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Cookie;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -69,5 +71,13 @@ public class LoginPage extends AbstractBasePage {
 
     public void visit() {
         getDriver().navigate().to("https://www.saucedemo.com");
+    }
+
+    public void atomicLogin() {
+        driver.manage().deleteAllCookies();
+        ((JavascriptExecutor)driver).executeScript("localStorage.clear();");
+        Cookie loginCookie = new Cookie("session-username", "standard_user");
+        //try document.cookie="session-username=standard_user" in browser Console
+        driver.manage().addCookie(loginCookie);
     }
 }
