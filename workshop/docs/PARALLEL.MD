@@ -81,4 +81,27 @@ My results
 
 [Achieving 97% test suite run time improvement](https://devops.com/4-steps-to-achieve-a-66-reduction-in-test-run-time/)
 
+[How to cut your Selenium test run time by 70%](https://techbeacon.com/app-dev-testing/how-cut-your-selenium-test-run-time-70)
+
+---
+
+### ❓Questions?
+
+---
+
+## Front-end performance testing
+
+---
+
+### ❓Who knows what front-end performance is? What is it not?
+
+---
+
+## 🏋️‍♀Implement front-end performance test
+
+1. Go to `com.saucedemo.exercises.PerformanceTests` and write code to open the home page and login
+2. That's it, no assertions and no other code
+3. Run the test `mmvn test -Dtest="PerformanceTests"`
+4. Go to [saucelabs](https://saucelabs.com/) and see your test run
+
 ## [⏭️Let's summarize](CONCLUSIONS.MD)
