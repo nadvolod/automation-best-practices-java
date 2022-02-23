@@ -12,9 +12,7 @@
     - [Twitter](https://twitter.com/Nikolay_A00)
 
 3. Give this repo a ⭐, it deserves it 😂
-4. 💃Let's pick 2 winners for backpacks!
 
-<img src="https://media.giphy.com/media/mE5AQ8dqoH4Z2/giphy.gif" alt="backpack" width="400"/>
 
 ## Bonus resources
 
@@ -22,5 +20,8 @@
 * [Parallelization with Junit4,Junit5,TestNg](https://youtu.be/ufccoaURMIc)
 * [21+ Automation best practices](https://ultimateqa.com/automation-patterns-antipatterns/)
 
+## 💃Let's pick a winner for a backpack!
+
+<img src="https://media.giphy.com/media/mE5AQ8dqoH4Z2/giphy.gif" alt="backpack" width="400"/>
 
 
