@@ -85,9 +85,19 @@ We will focus on a holistic approach of risk mitigation by doing:
 2. Save your Screener API Key by going to the [API key](https://screener.io/v2/account/api-key) page in your Screener settings
    1. Need to sign up for [demo account before](https://saucelabs.com/demo-request-vt)
 
-🏮 **I will get us demo screener accounts for those that don't have them :)**
+🏮 **If you don't get an API key before the workshop, please use one of these**🏮
 
-In the meantime, if you don't have one, use `446353ba-b70f-4abd-b0f9-77524451e831` for your `SCREENER_API_KEY` 🏮
+SCREENER_API_KEY:
+
+`34c95634-56fc-446e-b68e-20530262e3f4`
+
+`fe5a0636-fde5-4209-a597-403a76f1b505`
+
+`6b3cc9f4-4578-413c-b5cc-ed7d1b417981`
+
+`6b3cc9f4-4578-413c-b5cc-ed7d1b417981`
+
+`8368adee-4463-4aa4-a441-6e6c58d67665`
 
 ### Local environment setup
 
