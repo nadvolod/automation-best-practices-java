@@ -87,7 +87,7 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 🏮 **I will get us demo screener accounts for those that don't have them :)**
 
-In the meantime, use `446353ba-b70f-4abd-b0f9-77524451e831` for your `SCREENER_API_KEY` 🏮
+In the meantime, if you don't have one, use `446353ba-b70f-4abd-b0f9-77524451e831` for your `SCREENER_API_KEY` 🏮
 
 ### Local environment setup
 
