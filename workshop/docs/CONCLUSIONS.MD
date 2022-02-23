@@ -16,7 +16,8 @@
 
 ## Bonus resources
 
-* [Complete Selenium WebDriver Java Bootcamp](https://ultimateqa.com/selenium-java)
+* [Complete Selenium WebDriver Java Bootcamp](https://ultimateqa.com/selenium-java) 
+    * Use coupon code `workshop` for a 25% discount
 * [Automation patterns ebook](Automation-Testing-Patterns.pdf)
 * [Dummy automation sites](TheBestWebsitesForAutomation.pdf)
 * [Parallelization with Junit4,Junit5,TestNg](https://youtu.be/ufccoaURMIc)
