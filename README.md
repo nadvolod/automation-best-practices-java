@@ -6,7 +6,7 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 * functional web testing,
 * visual testing,
-* accessibility testing, 
+* performance testing, 
 * and many other things in between 😁
 
 [👉**Register for workshop**](https://bit.ly/3fPpFZx)
@@ -38,6 +38,7 @@ We will focus on a holistic approach of risk mitigation by doing:
 * [Atomic tests](./workshop/docs/ATOMIC-TESTS.MD)
 * [Visual e2e tests](./workshop/docs/VISUAL.MD)
 * [Parallelization](./workshop/docs/PARALLEL.MD)
+* [Front-end performance](./workshop/docs/PARALLEL.MD)
 * [Conclusions](./workshop/docs/CONCLUSIONS.MD)
 
 
