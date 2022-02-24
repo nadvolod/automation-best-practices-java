@@ -123,7 +123,7 @@ Navigate to the directory of where you cloned your repo
 Run sanity tests
 
 ```java
-mvn test -Dtest=SanityTest -X
+mvn test -Dtest="SanityTest#functionalWorks" -X
 ```
 
 <br/>
@@ -133,11 +133,11 @@ mvn test -Dtest=SanityTest -X
     </summary>
 
         
-        Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.305 sec
+        Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.305 sec
 
         Results :
 
-        Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+        Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 
         [INFO] ------------------------------------------------------------------------
         [INFO] BUILD SUCCESS
@@ -198,7 +198,7 @@ echo $SCREENER_API_KEY
 Run sanity tests
 
 ```bash
-mvn test -Dtest=SanityTest -X
+mvn test -Dtest="SanityTest#functionalWorks" -X
 ```
 
 <br/>
