@@ -8,7 +8,7 @@
 
 1. Please leave some quick and anonymous [feedback on this workshop](https://docs.google.com/forms/d/e/1FAIpQLSfwQ8pJmCwGkHKsd8eR5scnjYuBWTshMpmrgvKGuiLcSoT1ug/viewform?usp=sf_link)
 
-2. 📫 Follow me to stay up to date on the next Testing for Good workshop!
+2. 📫 Follow me to stay up to date on the next workshop!
 
     - [Java Testing Newsletter](https://ultimateqa.ck.page/selenium-java-tips)
     - [Youtube training](https://youtube.com/ultimateqa)
