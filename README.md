@@ -65,12 +65,12 @@ We will focus on a holistic approach of risk mitigation by doing:
 - 🌱 I’m currently working on [Sauce Bindings](https://github.com/saucelabs/sauce_bindings)
 - 💬 Ask me about environmentalism, veganism, test automation, and fitness
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a vegan that's super pasionate about saving the planet, saving animals, and helping underpriveleged communities
+- ⚡ Fun fact: I'm a Ukranian, Russian, Jew that was born in Uzbekistan and raised in US 🤯
 - 📫 Follow me for testing and dev training
   - [Java Testing Tips Weekly](https://ultimateqa.ck.page/selenium-java-tips)
-  - [Testing Training on Youtube](https://youtube.com/ultimateqa)
+  - [Testing Training on Youtube](https://www.youtube.com/ultimateqa?sub_confirmation=1)
   - [LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/)
-  - [Twitter](https://twitter.com/intent/follow?screen_name=nikolay_a00&region=follow_link)
+  - [Twitter to know about all my events](https://twitter.com/intent/follow?screen_name=nikolay_a00)
 
 ## Setup
 
