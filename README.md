@@ -9,7 +9,23 @@ We will focus on a holistic approach of risk mitigation by doing:
 * performance testing, 
 * and many other things in between 😁
 
-[👉**Register for workshop**](https://bit.ly/3fPpFZx)
+---
+
+## The Java Software Engineer in Test (SDET) curriculum is your ticket to a wonderful test automation career.
+
+:earth_americas: 5 months of world-class training
+
+:computer: Gain real-world experience through automation with real customers
+
+:rocket: Build out your open source coding skills through group projects
+
+:briefcase: Interview training, on-the-job guidance, and live support to ensure your success in your new role.
+
+:date: 100% virtual education
+
+Join the ranks of the world's elite software developers and test automation experts :star2:
+
+:point_right: Join now, be the first to know about the launch and enjoy exclusive benefits: https://ultimateqa.ck.page/academy-coming-soon
 
 ## 🧠You will learn to
 
